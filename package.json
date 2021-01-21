@@ -1,0 +1,31 @@
+{
+  "name": "dmod-clickupapi.js",
+  "version": "0.0.1",
+  "description": "Custom ClickUp NPM Module for dmod.gg",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmod-gg/modules.git"
+  },
+  "author": "ParadiseBotList",
+  "creator": "Dexter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmod-gg/modules/issues"
+  },
+  "homepage": "https://github.com/dmod-gg/modules#readme",
+  "keywords": [
+    "Discord",
+    "Bot",
+    "List",
+    "API",
+    "Wrapper"
+  ]
+}
