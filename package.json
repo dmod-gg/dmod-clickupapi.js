@@ -1,6 +1,6 @@
 {
   "name": "dmod-clickupapi.js",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Custom ClickUp NPM Module for dmod.gg",
   "main": "index.js",
   "dependencies": {
@@ -10,11 +10,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
-"publishConfig": {
-  "registry":"https://npm.pkg.github.com"
-},
-
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dmod-gg/dmod-clickupapi.js.git"
