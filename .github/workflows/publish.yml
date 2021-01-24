@@ -1,9 +1,9 @@
 name: Node.js Package deploy
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
@@ -13,8 +13,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 12
-      - run: npm ci
-      - run: npm test
+      - run: npm install
   publish-gpr:
     needs: build
     runs-on: ubuntu-latest
