@@ -29,6 +29,5 @@ jobs:
       - run: yarn version --minor
       - run: git pull
       - run: git push
-      - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
