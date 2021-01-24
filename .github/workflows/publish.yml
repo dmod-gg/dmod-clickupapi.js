@@ -26,7 +26,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 12
-          registry-url: https://npm.pkg.github.com/ParadiseBotList
+          registry-url: https://npm.pkg.github.com/dmod-gg
      scope: "@dmod-clickupapi.js"
        - run: npm install
        - run: git push --tags && git push
