@@ -1,6 +1,6 @@
 {
   "name": "@dmod-gg/dmod-clickupapi.js",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Custom ClickUp NPM Module for dmod.gg",
   "main": "index.js",
   "dependencies": {
