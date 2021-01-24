@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmod-gg/modules.git"
+    "url": "git+https://github.com/dmod-gg/dmod-clickupapi.js.git"
   },
   "author": "dmod-gg",
   "creator": "TheRealToxicDev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dmod-gg/modules/issues"
+    "url": "https://github.com/dmod-gg/dmod-clickupapi.js/issues"
   },
-  "homepage": "https://github.com/dmod-gg/modules#readme",
+  "homepage": "https://github.com/dmod-gg/dmod-clickupapi.js#readme",
   "keywords": [
     "Discord",
     "Bot",
