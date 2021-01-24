@@ -1,7 +1,7 @@
 <h1 align="center">Copyright and License</h1>
 <p align="center">Terms Used</p>
 
-- Toxic ("Author", "Coder", "Creator", "Toxic Dev", "TheRealToxicDev", "Me", "My")
+- Toxic ("Author", "Coder", "Creator", "Developer", "Toxic Dev", "TheRealToxicDev", "Me", "My")
 - Dmod ("Owner", "Dmod LLC", "dmod.gg", "Us", "We", "Our")
 - Content ("Bot", "Assistant Bot", "bot", "code", "codes", "assets", "source", "sources")
 - User ("You", "User", "they", "them", "their")
