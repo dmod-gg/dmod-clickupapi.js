@@ -10,6 +10,11 @@
   "scripts": {
     "test": "npm install && npm run main"
   },
+
+"publishConfig": {
+  "registry":"https://npm.pkg.github.com"
+},
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dmod-gg/dmod-clickupapi.js.git"
